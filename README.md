@@ -1,65 +1,79 @@
- Hello 👋 welcome to my github profile Iam Madhivanan
+# Hello 👋 Welcome to my GitHub Profile
 
-Final-year Information Technology student with hands-on experience in backend development, cloud infrastructure, and DevOps practices. I enjoy building scalable systems, containerizing applications, and automating deployments.
+I am **Madhivanan**, a final-year Information Technology student with hands-on experience in backend development, cloud infrastructure, and DevOps practices.
+
+I enjoy building scalable systems, containerizing applications, and automating deployments.
+
+---
 
 ## About Me
 
-* cloud and DevOps focused developer
-* Experience building microservices and containerized systems
-* Interested in distributed systems, cloud infrastructure, and automation
-* Currently working as a Software Developer Intern at Flattrade Broking Pvt Ltd
+- Cloud and DevOps focused developer
+- Experience building microservices and containerized systems
+- Interested in distributed systems, cloud infrastructure, and automation
+- Currently working as a **Software Developer Intern at Flattrade Broking Pvt Ltd**
+
+---
 
 ## Tech Stack
 
-**Languages**
+### Languages
 Java, Python, JavaScript, TypeScript
 
-**Backend Development**
+### Backend Development
 Node.js, Express.js, Spring Boot, FastAPI, REST APIs, Microservices
 
-**Frontend**
+### Frontend
 React.js, HTML, CSS, Tailwind CSS
 
-**Databases**
+### Databases
 PostgreSQL, MongoDB, Redis
 
-**DevOps & Cloud**
+### DevOps & Cloud
 Docker, Kubernetes, GitHub Actions, CI/CD Pipelines, AWS (EC2, S3, VPC), Linux
 
-**Tools**
+### Tools
 Git, GitHub, Postman, VS Code
+
+---
 
 ## Projects
 
 ### Freelance Platform – Microservices Backend
 
-* Built a microservices-based backend system using Spring Boot
-* Implemented REST APIs and service-to-service communication
-* Used PostgreSQL with isolated databases per service
-* Containerized services using Docker and Docker Compose
-* Built a GitHub Actions CI/CD pipeline
-* Deployed services to Kubernetes with multi-replica deployments and NGINX Ingress
+- Built a microservices-based backend system using Spring Boot  
+- Implemented REST APIs and service-to-service communication  
+- Used PostgreSQL with isolated databases per service  
+- Containerized services using Docker and Docker Compose  
+- Built a GitHub Actions CI/CD pipeline  
+- Deployed services to Kubernetes with multi-replica deployments and NGINX Ingress  
+
+---
 
 ### DevConnect – Containerized Microservices Social Network
 
-* Developed multiple Node.js microservices for authentication, profiles, posts, chat, and notifications
-* Implemented JWT-based authentication and authorization
-* Designed independent MongoDB databases for each service
-* Orchestrated the system using Docker and Docker Compose
+- Developed multiple Node.js microservices for authentication, profiles, posts, chat, and notifications  
+- Implemented JWT-based authentication and authorization  
+- Designed independent MongoDB databases for each service  
+- Orchestrated the system using Docker and Docker Compose  
+
+---
 
 ### Blog Web Application
 
-* Built a full-stack blog platform using React and MongoDB
-* Implemented CRUD operations for posts
-* Integrated cloud storage for images
-* Deployed the application on AWS EC2
+- Built a full-stack blog platform using React and MongoDB  
+- Implemented CRUD operations for posts  
+- Integrated cloud storage for images  
+- Deployed the application on AWS EC2  
+
+---
 
 ## Interests
 
-* Cloud Infrastructure
-* DevOps Automation
-* Backend Systems
-* Distributed Architecture
+- Cloud Infrastructure
+- DevOps Automation
+- Backend Systems
+- Distributed Architecture
 
 ## Contact
 
