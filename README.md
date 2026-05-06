@@ -11,14 +11,14 @@ I enjoy building scalable systems, containerizing applications, and automating d
 - Cloud and DevOps focused developer
 - Experience building microservices and containerized systems
 - Interested in distributed systems, cloud infrastructure, and automation
-- Currently working as a **Software Developer Intern at Flattrade Broking Pvt Ltd**
+
 
 ---
 
 ## Tech Stack
 
 ### Languages
-Java, Python, JavaScript, TypeScript
+Java, Python, JavaScript, TypeScript,Bash
 
 ### Backend Development
 Node.js, Express.js, Spring Boot, FastAPI, REST APIs, Microservices
